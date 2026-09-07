@@ -1,2 +1,2 @@
-# Tuwuq
-this is the first line 
+# Tuwaiq Projects
+Python Project : 
