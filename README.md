@@ -1,2 +1,1 @@
-# Tuwaiq Projects
-Python Project : 
+# STC tv UseCase Daat Analysis 
